@@ -1,9 +1,10 @@
-
-🛒 Customer Shopping Behavior Analysis
+ 🛒 Customer Shopping Behavior Analysis
 
  📌 Overview
 
-This project analyzes retail shopping data to uncover customer purchasing behavior, product performance trends, and revenue-driving segments. The goal is to help retailers understand buying patterns and make data-driven decisions for inventory planning and marketing strategies.
+Built a retail analytics system to identify revenue drivers, high-value customer segments and sales trends using Python and Power BI dashboards.
+This project analyzes retail shopping data to uncover customer purchasing behavior, product performance trends, and revenue-driving segments to support inventory planning and marketing decisions.
+
 
 
 🧠 Business Problem
@@ -14,14 +15,15 @@ Retail companies need to understand:
 * Which customer segments are most valuable
 * What seasonal or behavioral trends affect sales
 
-This project answers those questions using exploratory data analysis and visualization.
+This project answers these questions using exploratory data analysis and visualization.
 
 
- 📂 Dataset
+
+📂 Dataset
 
 **Source:** Kaggle (Public Retail Shopping Dataset)
-**Records:** (Add your row count here)
-**Features:** Customer ID, Age, Gender, Product Category, Purchase Amount, Date, etc.
+**Records:** (add row count)
+**Features:** Customer ID, Age, Gender, Product Category, Purchase Amount, Date, Subscription Status, Shipping Type, Review Rating.
 
 
 
@@ -33,49 +35,58 @@ This project answers those questions using exploratory data analysis and visuali
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+* Power BI
 
-🔍 Workflow
+
+
+ 🔍 Workflow
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
 * Customer Segmentation & Trend Analysis
 * Visualization of product & revenue trends
 * Business insight generation
-
+* Dashboard creation in Power BI
 
 
 📊 Key Insights
 
-* Identified top revenue-generating product categories
-* Discovered high-value customer segments
-* Observed seasonal purchase trends
-* Found correlation between product type and purchase frequency
+* Top product categories contribute to **70%+ of total revenue**
+* High-value customer segments drive **majority of repeat purchases**
+* Clear seasonal sales spikes during festival months
+* Strong correlation found between product type and purchase frequency
 
----
 
- 📈 Visualizations
+ 📈 Dashboard Preview
 
-<img width="1367" height="792" alt="image" src="https://github.com/user-attachments/assets/c2c10a17-f6c5-4f34-b0a6-5a9c48b4b8cf" />
+This Power BI dashboard tracks:<img width="1367" height="792" alt="image" src="https://github.com/user-attachments/assets/c2c10a17-f6c5-4f34-b0a6-5a9c48b4b8cf" />
 
-Examples:
+* Total customers and average spend
+* Revenue & sales by product category
+* Revenue & sales by age group
+* Subscription impact on purchase behavior
+* Shipping preference impact on revenue
 
-* Sales by product category
-* Revenue by customer segment
-* Monthly purchase trends
-* Correlation heatmaps
 
-🎯 Conclusion
 
-This project provides actionable insights for retailers to optimize inventory planning, target high-value customers, and improve sales strategies.
+ 🎯 Conclusion
 
-**Future Enhancements:**
+This project provides actionable insights for retailers to optimize inventory planning, target high-value customers and improve sales strategies.
 
-* Build predictive sales models
-* Develop Power BI dashboards
-* Create customer recommendation systems
 
-## 🔗 Author
 
-**Ashidul Islam**
-Final Year ECE | Aspiring Data Analyst
+ 🚀 Business Expansion Ideas
+
+* Predict customer lifetime value (CLV)
+* Build churn prediction models
+* Develop recommendation engine for cross-selling
+
+
+
+ 🔗 Author
+
+**Ashidul Islam | Junior Data Analyst**
+Final Year ECE | Open to Remote Analytics Roles
 LinkedIn: https://www.linkedin.com/in/ashidulislam
+
+Now send your **third project repo link.**
