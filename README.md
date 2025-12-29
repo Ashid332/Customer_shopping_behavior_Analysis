@@ -23,9 +23,9 @@ This project answers those questions using exploratory data analysis and visuali
 **Records:** (Add your row count here)
 **Features:** Customer ID, Age, Gender, Product Category, Purchase Amount, Date, etc.
 
----
 
-## 🛠 Tools & Technologies
+
+🛠 Tools & Technologies
 
 * Python
 * Pandas
@@ -34,9 +34,7 @@ This project answers those questions using exploratory data analysis and visuali
 * Seaborn
 * Jupyter Notebook
 
----
-
-## 🔍 Workflow
+🔍 Workflow
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
@@ -44,9 +42,9 @@ This project answers those questions using exploratory data analysis and visuali
 * Visualization of product & revenue trends
 * Business insight generation
 
----
 
-## 📊 Key Insights
+
+📊 Key Insights
 
 * Identified top revenue-generating product categories
 * Discovered high-value customer segments
@@ -57,6 +55,7 @@ This project answers those questions using exploratory data analysis and visuali
 
  📈 Visualizations
 
+<img width="1367" height="792" alt="image" src="https://github.com/user-attachments/assets/c2c10a17-f6c5-4f34-b0a6-5a9c48b4b8cf" />
 
 Examples:
 
